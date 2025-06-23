@@ -1,0 +1,41 @@
+body{
+    background-image: url("Currency.jpg");
+    background-size: cover;
+}
+header{
+    font-style: italic;
+}
+div{
+    display:flex ;
+    justify-content: flex-end;
+}
+form,p{
+     background-color: rgba(248, 242, 235, 0.866);
+     margin-right: 10%;
+     padding: 5px;
+}
+form label,input{
+    margin-right: 10px;
+}
+form input,select{
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0);
+}
+p{
+    width: 200px;
+    gap:0%;
+}
+#outputBox {
+    display: flex;
+    flex-direction: column;  
+    align-items: flex-end;   
+    
+}
+
+#outputBox p {
+    background-color: rgba(248, 242, 235, 0.866);
+    padding: 5px;
+    width: 500px;
+    margin-top: 2px; 
+}
