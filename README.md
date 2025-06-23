@@ -19,4 +19,9 @@ SmartSpend is a simple yet powerful web app that combines a currency converter a
 2. Enter number of people to split the tip.
 3. Enter amount and select currencies to convert values.
 
+## Screenshot
+![Screenshot 2025-06-23 191410](https://github.com/user-attachments/assets/7cb9fbf4-2a38-438c-9801-160d101396a4)
+
+
+
 
